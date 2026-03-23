@@ -98,29 +98,31 @@ lista-encadeada/
 
 # Tecnologias
 <table align="center">
-      </tr>
+     <tr>
         <th>
             Linguagem
         </th>
-        <tr>
+        <td>
             <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-        </tr>
-      </tr>
+        </td>
+    </tr>
+     <tr>
         <th>
             IDE
         </th>
-        <tr>
+        <td>
             <img alt="CLion" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
-        </tr>
-      </tr>
+        </td>
+     </tr>
+     <tr>
         <th>
             Build System
         </th>
-        <tr>
+        <td>
             <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-        </tr>
+        </td>
+     </tr>
 </table>
-
 
 
 # Como executar o projeto
