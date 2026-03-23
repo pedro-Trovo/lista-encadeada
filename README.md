@@ -1,4 +1,4 @@
-<h1 align="center">Lista Encadeada em C</h1>
+<h1 align="center">Lista Encadeada</h1>
 
 <p align="center">
   <strong>Implementação de uma Lista Encadeada em C com alocação dinâmica</strong><br>
@@ -13,6 +13,7 @@
 - [Funcionalidades](#funcionalidades)   
 - [Tecnologias](#tecnologias)  
 - [Como executar o projeto](#como-executar-o-projeto)
+- [Imagens do Projeto](#imagens-do-projeto)
 
 
 # Sobre o Projeto
